@@ -1,2 +1,4 @@
 # Bayesian-models
-I share my solutions to Bayesian modeling exercises as I work through them.
+Welcome! 
+Here I share my solutions to Bayesian modeling exercises 
+Feel free to explore and follow along as I learn..
